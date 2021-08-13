@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @FanLee9249
-- 🌱 U can call me as yaya
+- 🌱 U can call me as fan or yaya
 
 <!---
 FanLee9249/FanLee9249 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
